@@ -12,3 +12,6 @@ ssh-keygen -m PEM -t rsa -b 2048
 ssh -p 22 user@128.128.128.128
 ```
 
+```bash
+ssh -p 22 vishalmamidi@xyz.centralindia.cloudapp.azure.com
+```
